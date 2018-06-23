@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Anime</string>
+    <string name="action_download">Dowload</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_setting">Settings</string>
 </resources>

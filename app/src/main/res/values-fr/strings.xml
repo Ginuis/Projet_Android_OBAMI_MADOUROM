@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anime</string>
+    <string name="action_download">Télécharger</string>
+    <string name="action_delete">Suprimer</string>
+    <string name="action_setting">Paramèttres</string>
+</resources>
