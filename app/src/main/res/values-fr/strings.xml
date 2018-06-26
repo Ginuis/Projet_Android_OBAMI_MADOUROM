@@ -4,4 +4,20 @@
     <string name="action_download">Télécharger</string>
     <string name="action_delete">Suprimer</string>
     <string name="action_setting">Paramèttres</string>
+    <string name="action_refresh">Rafraichir</string>
+    <string name="textbox">BONJOUR ET BIENVENUE SUR WIKI-ANIMES</string>
+    <string name="button_n">ANIMES</string>
+    <string name="carte">MAGASINS</string>
+    <string name="click_1">CLIQUER ENCORE</string>
+    <string name="click_2">CLIQUER ICI</string>
+    <string name="ms">Le bouton magasins permet d avoir des informations sur les magasins spécialisés.</string>
+    <string name="mg">Le bouton animes vous permet de voir la liste des meilleurs mangas</string>
+    <string name="anime_name">Titre</string>
+    <string name="rating">0.0</string>
+    <string name="date">DATE</string>
+    <string name="dat">voilà la date</string>
+    <string name="notif">YATTA !</string>
+    <string name="notif_1">profiter de vos mangas datebayo</string>
+    <string name="ml">Telechargement terminé</string>
+
 </resources>

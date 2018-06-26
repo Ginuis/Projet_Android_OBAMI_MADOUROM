@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/glory">
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="110dp"
+        android:text="KAZE"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textAlignment="center"
+        android:textSize="15sp"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/kaze"/>
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/go"
+        android:id="@+id/kaze_id"
+        android:onClick="doMapsKaze"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="110dp"
+        android:text="KANA"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textAlignment="center"
+        android:textSize="15sp"/>
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/kana" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/go"
+        android:id="@+id/kana_id"
+        android:onClick="doMapsKana"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="110dp"
+        android:text="TONKAM"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textAlignment="center"
+        android:textSize="15sp"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="90dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/tonkam" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/go"
+        android:id="@+id/tonkam_id"
+        android:onClick="doMapsTonkam"/>
+
+</LinearLayout>

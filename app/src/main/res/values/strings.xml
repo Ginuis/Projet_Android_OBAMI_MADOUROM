@@ -3,4 +3,17 @@
     <string name="action_download">Dowload</string>
     <string name="action_delete">Delete</string>
     <string name="action_setting">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="textbox">HELLO AND WELCOME ON YOUR WIKI-ANIMES</string>
+    <string name="button_n">ANIMES</string>
+    <string name="carte">SHOPS</string>
+    <string name="click_1">CLICK AGAIN</string>
+    <string name="click_2">CLICK HERE</string>
+    <string name="msg">Stores button makes it possible to have information on the specialized stores.</string>
+    <string name="mg">Animes button allows you to see the list of the best mangas</string>
+    <string name="date">Look at the date</string>
+    <string name="dat">herei s the date</string>
+    <string name="notif">YATTA !</string>
+    <string name="notif_1">Enjoy your mangas datebayo</string>
+    <string name="ml">Download complete</string>
 </resources>
